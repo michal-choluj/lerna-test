@@ -3,5 +3,5 @@
 module.exports = knex;
 
 function knex() {
-    // TODO
+    console.log('KNEX');
 }
